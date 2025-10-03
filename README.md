@@ -228,6 +228,219 @@ https://www.tokeru.com/cgwiki/JoyOfVex.html
 ## GDC inside
 https://www.youtube.com/watch?v=gFkYjAKuUCE
 
+UE5 demo mesh insect swarm - part 1
+https://www.youtube.com/watch?v=PkLWiY2SBSQ
+
+UE5 demo mesh insect swarm - part 2
+https://www.youtube.com/watch?v=5x8VZOUwFek
+
+How I build intricate particle behaviors using Niagara in UE
+https://www.youtube.com/watch?v=y6MV1rKNdcA
+
+Creating the art of ABZU
+https://www.youtube.com/watch?v=l9NX06mvp2E&t=33s
+
+GAT#65: stylized VFX in Rime
+https://www.youtube.com/watch?v=fwKQyDZ4ark
+
+blob with raymarching
+https://www.youtube.com/watch?v=grmZ0I5-CgA
+
+UE4 VFX for games: Brute force Volumetric Gases - ground fog and vapor
+https://www.youtube.com/watch?v=GA9fQIgNJ8I
+
+Cem Yuksel
+https://www.cemyuksel.com/research/
+https://www.youtube.com/@cem_yuksel
+
+
+Coding Adventure: simulating fluids
+https://www.youtube.com/watch?v=rSKMYc1CQHE
+
+Coding Adventure: Rendering fluids
+https://www.youtube.com/watch?v=kOkfC5fLfgE
+
+The art of illusion - Niagara simulation framework overview
+https://www.youtube.com/watch?v=-cKgZrrBJ2w
+
+exploring unreal endgine 5 Niagara simulation stages and grid2d collision
+https://www.youtube.com/watch?v=PCA5jQwFvug
+
+fluid simulation experiments in unreal engine 5 Niagara
+https://www.youtube.com/watch?v=QCozhIPX6Hs
+
+Volumetric raymarching shader with nagara dynamic shadow maps in ue5
+https://www.youtube.com/watch?v=NO1ZGbdE9ao
+
+labs volume texture, sidefx labs
+https://www.artstation.com/artwork/689mkW
+
+calculating flow fields for rats in "a plague tale" | ai and games
+https://www.youtube.com/watch?v=1R7W8LVvegk
+
+UE5 - coollisions between particles - position based dynamics
+https://www.youtube.com/watch?v=6Chvg8ykq_g
+
+position based dynamics - Niagara system in UE5.3
+https://youtu.be/5G2j4eFc4oI?feature=shared
+
+advanced Niagara effects
+https://www.youtube.com/watch?v=31GXFW-MgQk
+
+pbd research:
+https://matthias-research.github.io/pages/publications/XPBD.pdf
+https://www.youtube.com/@matthimf/videos
+https://www.youtube.com/@TenMinutePhysics/videos
+https://matthias-research.github.io/pages/publications/publications.html
+https://developer.nvidia.com/flex
+https://www.linkedin.com/company/tuataragames/posts/?feedView=all
+
+Fake lighting on particles in UE:
+https://80.lv/articles/here-s-how-to-cheaply-fake-lighting-on-particles-in-unreal-engine
+
+making cinematic VFX using Niagara:
+https://dev.epicgames.com/community/learning/tutorials/731D/unreal-engine-unreal-5-1-tutorial-making-cinematic-vfx-using-niagara-chapter-1-lightning-arcs
+
+https://learn.microsoft.com/en-us/windows/powertoys/
+
+
+ultimate Copernicus guide: Every COP node explained
+https://www.youtube.com/watch?v=ZPL215vfNwg
+
+Ue4 - VFX
+https://www.youtube.com/playlist?list=PLomQNLPOWtzYXU_pRIUVVEV9uY7bjENZ5
+
+flowmap painter
+https://teckartist.com/?page_id=107
+
+double pendulums are chaoticn't
+https://youtu.be/dtjb2OhEQcU?si=f4nuIy0fzQPvG4hj
+
+
+vfx therapy
+https://x.com/VFX_Therapy/status/1946567147066679662
+
+labs flowmap tools
+https://www.artstation.com/artwork/oANqmW
+
+labs vertex animation textures 3.0: PDG example
+https://www.artstation.com/artwork/1xq9k8
+
+labs vertex animation textures 3.0: part 1
+https://www.artstation.com/artwork/zOyke6
+
+labs vertex animation textures 3.0: part 2
+https://sidefxlabs.artstation.com/projects/5XJZV8
+
+labs make loop:
+https://www.artstation.com/artwork/rAkKgL
+
+procedural modeling with UE5
+https://www.youtube.com/watch?v=FC3vjONjPvY&list=PLpoXxlr0idMkGMOH6o7npkW3DaZoeZ5M-
+
+steerable perlin noise:
+https://github.com/jakericedesigns/SteerablePerlinNoise
+
+zibraVDB
+https://www.zibra.ai/
+
+artists
+https://www.youtube.com/@DanMoranGameDev/videos
+https://www.byungsoo.me/
+
+Houdini:
+https://github.com/cgnomads/GSOPs
+https://www.sidefx.com/docs/houdini/unreal/landscape/basics.html
+https://www.sidefx.com/docs/houdini/unreal/attributes.html
+
+project Pegasus, roads, tracks
+https://www.sidefx.com/tutorials/project-pegasus-roads-tracks-and-rivers/
+
+Houdini quick tip:
+Finding and accessing legacy nodes
+https://www.youtube.com/watch?v=8xbSrFlx35k
+https://www.sidefx.com/docs/houdini/model/compile.html
+
+triplanar mapping Houdini
+https://www.reddit.com/r/unrealengine/comments/70o0js/material_super_cheap_triplanar_mapping_solution/#lightbox
+
+physics:
+https://www.youtube.com/@3blue1brown
+
+drag and drop tutorial Houdini
+https://www.sidefx.com/tutorials/houdini-script-drag-and-drop-file/
+
+sand rendering in journey:
+https://www.youtube.com/watch?v=wt2yYnBRD3U
+
+mix training:
+https://www.mixtrn.com/
+
+examples:
+https://vimeo.com/216727778
+https://simonschreibt.de/
+
+adding features to UE with scriptable tools: lets' paint mode
+https://www.youtube.com/watch?v=NrzrYit3orU
+
+flowmap material setup 13 mins
+https://www.youtube.com/watch?v=tEr3NE_XLbc
+
+how to export to PCG
+https://www.sidefx.com/tutorials/how-to-export-to-pcg-in-unreal/
+
+3d artists coloring book
+https://courses.stylizedstation.com/p/3dcoloringbookold
+
+rendering high quality frames with movie render queue:
+https://dev.epicgames.com/documentation/en-us/unreal-engine/rendering-high-quality-frames-with-movie-render-queue-in-unreal-engine
+
+use FFmpeg with the command line encoder
+https://dev.epicgames.com/community/learning/tutorials/BbYV/unreal-engine-how-to-use-ffmpeg-with-the-command-line-encoder-in-movie-render-queue
+
+GAT#69
+https://www.youtube.com/watch?v=OklvMqMCkc4
+
+Houdini/unreal: 3 mistakes you don't want to make when baking
+https://www.youtube.com/watch?v=YpXczzOtsHc
+
+
+matte painting in games:
+https://www.youtube.com/watch?v=ulCef4nwf04
+
+
+
+triplanar mapping solutions:
+https://www.reddit.com/r/unrealengine/comments/70o0js/material_super_cheap_triplanar_mapping_solution/#lightbox
+
+labs trim texture tools:
+https://sidefxlabs.artstation.com/projects/qQP4ZR
+
+project titan GPT signage
+https://www.sidefx.com/tutorials/project-titan-gpt-signage/
+
+
+bcn compression tools;
+https://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/
+
+
+python in Houdini:
+https://www.youtube.com/watch?v=CxoVzsxiruY
+
+
+Other tech art stuff:
+Cool stuff here !
+
+custom HLSL
+https://www.linkedin.com/posts/wojciech-sterna-193a7b44_%F0%9D%97%96%F0%9D%98%82%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%BA-%F0%9D%97%9B%F0%9D%97%9F%F0%9D%97%A6%F0%9D%97%9F-%F0%9D%97%BB%F0%9D%97%BC%F0%9D%97%B1%F0%9D%97%B2-in-unreal-activity-7376174754560479232-7RNV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAZdEoIBE9X1Yz2kiL2ks6A_JaLbju53TPw
+
+artists guide to editing the editor
+https://dev.epicgames.com/community/learning/talks-and-demos/m3jv/unreal-engine-the-artist-s-guide-to-editing-the-editor-automation-validation-and-custom-tools-unreal-fest-gold-coast-2024
+
+blueprint validator
+https://www.youtube.com/watch?v=Y4eBybP2LUo
+
+https://forums.unrealengine.com/t/get-triangle-coord-at-uv-staticmesh-not-working-in-niagara/1892289
 
 
 License Copyright © 2023 - BionicNRG Distributed under MIT License. See license.md
